@@ -4,7 +4,11 @@
         {
             "section": "Section 1 - Establishment Of National Council For Tertiary Education",
             "content": [
-                "There is established by this Act a body to be known as the National Council for Tertiary Education, referred to as the Council in this Act."
+                {
+                    "sub_article":"There is established by this Act a body to be known as the National Council for Tertiary Education, referred to as the Council in this Act.",
+                    "article_list":[]
+
+                }
             ]
         },
         {
@@ -15,9 +19,7 @@
                     "article_list": [
                         "(a) to advise the Minister on the development of institutions of tertiary education in Ghana;",
                         "(b) to enquire into the financial needs of the institutions of tertiary education and advise the Minister accordingly;",
-                        "(c) to recommend to the Minister for the purposes of the preparation of the annual national education budget:",
-                        "    (i) block allocations of funds towards running costs; and",
-                        "    (ii) grants towards capital expenditure of each institution of tertiary education, indicating how the allocations are to be disbursed;",
+                        "(c) to recommend to the Minister for the purposes of the preparation of the annual national education budget: \n(i) block allocations of funds towards running costs; and \n (ii) grants towards capital expenditure of each institution of tertiary education, indicating how the allocations are to be disbursed" ,
                         "(d) to recommend national standards and norms, including standards and norms on staff, costs, accommodation, and time utilization, for the approval of the Minister and to monitor the implementation of any approved national standards and norms by the institutions;",
                         "(e) to advise governing councils of institutions of tertiary education on suitable measures for generating additional funds for their institutions;",
                         "(f) to advise the institutions of tertiary education on the applications for and acceptance of external assistance in accordance with government policy;",
